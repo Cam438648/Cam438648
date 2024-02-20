@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light:regular);
+nav{
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+    color:black;
+    font-family:'Shadows Into Light';
+}
+nav li{
+    display: inline;
+    margin: 110px;
+}
