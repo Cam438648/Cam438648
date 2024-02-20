@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Cedarville+Cursive:regular);
+h1{
+    border: 2px solid black;
+    border-radius:9px;
+    margin-left: 500px;
+    height: 300px;
+    width: 300px;
+    font-family: 'Cedarville Cursive';
+    font-size: 50px;
+    background-color: grey;
+    color: white;
+}
+#four{
+    
+  
+    width:50px;
+  
+    
+    
+}
+#three{
+ 
+   
+    width: 50px;
+    
+}
+#two{
+  
+   
+    width:50px;
+  
+    
+}
+#one{
+    
+  
+    width:50px;
+    
+    
+}
+li{
+    list-style:none ;
+    display: inline-flex;
+    margin: 20px;
+    align-content: center;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+body{
+   
+    background-color: white;
+}
+p{
+    font-family: 'Cedarville Cursive';
+    font-size: 20px;
+    margin-left: 380px;
+}
+#eight,#five,#six,#seven{
+    border: 1px solid black;
+    border-radius: 10px;
+    height:100px;
+    width:100px;
+    display: inline-flex;
+    background-color: grey;
+    margin: 50px;
+    margin-left: 180px;
+}
+#one,#two,#three,#four{
+    border: 1px solid black;
+    border-radius: 10px;
+   margin-left: 200px;
+}
+#words{
+    display: inline-flex;
+    flex-direction: row;
+    margin-left: -150px;
+}
