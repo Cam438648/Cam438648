@@ -1,0 +1,139 @@
+li{
+    list-style: none;
+    display: inline-flex;
+    flex-direction: row;
+
+    
+    
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 100px;
+    
+}
+h2{
+    font-size: 24px;
+    color:#F9FAF8;
+    display: inline-flex;
+    
+}
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color:#F9FAF8;
+    margin-top: none;
+   
+}
+h3{
+    color:white;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.part1{
+    background-color: #1f2937;
+}
+#Box1{
+    border: 2px solid lavender;
+    height: 100px;
+    width:500px;
+    color:white;
+    background-color: lightgray;
+    margin-top: 0px;
+    margin-left: 600px;
+   
+}
+button{
+    background-color: #3882F6;
+    color: white;
+   
+}
+
+#Box1{
+    margin-left: 800px;
+
+}
+h1,h3{
+    padding-top: 0px;
+}
+#heading{
+    font-size: 36px;
+    font-weight: bolder ;
+    color: black;
+    text-align: center;
+}
+#p1,#p2,#p3,#p4{
+    border: 2px solid rgb(49, 131, 158);
+    border-radius: 9px;
+    height: 100px;
+    width:100px;
+    display: inline-flex;
+    flex-direction: row;
+    margin-left: 170px;
+   
+
+       
+}
+.subtext{
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    display: inline-flex;
+    margin-left: -100px;
+
+}
+#testi{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
+#quote{
+    text-align: center;
+    font-size: 36px light italic;
+    color:#1F2937;
+}
+.testimonial{
+    background-color: #E5E7EB;
+}
+.callbox{
+    border: 1px solid rgb(101, 101, 230);
+    border-radius: 6px;
+    background-color: rgb(101, 101, 230);
+   height: 100px;
+   width: 800px;
+   margin-left: 250px;
+   
+   
+
+}
+#action{
+    color: white;
+}
+#text{
+    color: white;
+    margin-top:-20px; 
+}
+#buttonup{
+    color: white;
+    border: 1px solid white;
+    width: 60px;
+    border-radius: 6px;
+    margin-left: 500px;
+    margin-top: -50px;
+  
+}
+.end{
+    background-color: #1F2937;
+    width:100%;
+    height:100px;
+
+}
+#copy{
+    color: white;
+    text-align: center;
+   padding-top: 50px;
+}
+
+
+
+
